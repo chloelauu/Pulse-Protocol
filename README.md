@@ -10,7 +10,7 @@ Pulse Protocol is a turn-based rhythm combat game. Each enemy plays a pattern of
 
 Every fight runs in four phases: a countdown, MEMORIZE, INPUT NOW, and the result. During MEMORIZE the enemy plays its pattern on the beat. During INPUT NOW you repeat it with W, A, S and D, and each press is judged PERFECT, GREAT or MISS. A clean pattern attacks the enemy; a missed one hurts you. Each enemy type has its own rhythm (steady, syncopated, or with gaps), and the final boss mixes them before moving on to random patterns of up to eight keys. The beat clock reads the music's playback position from FMOD rather than counting frames, so timing doesn't drift.
 
-## My Role: Chloe Lau
+## My Role
 
 I was the project manager and one of the programmers, working mainly on the editor tools, the prefab and layer systems, and the rhythm input and combo feedback.
 
