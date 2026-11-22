@@ -1,5 +1,7 @@
 # Pulse Protocol
 
+https://github.com/chloelauu/Pulse-Protocol/blob/main/PulseProtocol/Thumbnail.jpg
+
 A turn-based rhythm combat game on our own C++ engine, where you memorise each enemy's beat pattern and play it back to attack.
 
 **Screenshots and gameplay video:** https://chloe-gportfolio.netlify.app/projects/pulse-protocol
@@ -12,7 +14,7 @@ Every fight runs in four phases: a countdown, MEMORIZE, INPUT NOW, and the resul
 
 ## My Role
 
-I was the project manager and one of the programmers, working mainly on the editor tools, the prefab and layer systems, and the rhythm input and combo feedback.
+I was the Product Manager and one of the programmers, working mainly on the editor tools, the prefab and layer systems, and the rhythm input and combo feedback.
 
 - **Prefabs and layers (C++):** wrote the engine's prefab system, including linked prefabs, and the layer registry, and worked on saving and loading scenes as JSON, including Play/Stop restoring the scene to how it was before you pressed Play.
 - **Editor tools (C++, ImGui):** worked on the editor with two teammates, on the transform gizmo, the Project panel (drag-and-drop prefabs, and turning absolute asset paths into relative ones), the Hierarchy (parent-child grouping) and the Inspector.
