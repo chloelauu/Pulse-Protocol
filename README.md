@@ -1,10 +1,10 @@
 # Pulse Protocol
 
-https://github.com/chloelauu/Pulse-Protocol/blob/main/PulseProtocol/Thumbnail.jpg
+![Pulse Protocol](PulseProtocol/Thumbnail.jpg)
 
 A turn-based rhythm combat game on our own C++ engine, where you memorise each enemy's beat pattern and play it back to attack.
 
-**Screenshots and gameplay video:** https://chloe-gportfolio.netlify.app/projects/pulse-protocol
+**Play it:** [Windows installer](../../releases) · **Screenshots and gameplay video:** https://chloe-gportfolio.netlify.app/projects/pulse-protocol
 
 ## About the Game
 
